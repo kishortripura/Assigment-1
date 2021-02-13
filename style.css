@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    width: 100%;
+    height: 20px;
+    margin-top: 10px;
+    
+}
+ul{
+    float: right;
+}
+ul li{
+    margin-left: 10px;
+    padding: 5px;
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+ul li a{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    font-family: 'Dosis', sans-serif;
+}
+.top-contain{
+    margin-top: 30px;
+}
+.contain{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+    font-family: 'Roboto', sans-serif;
+}
+.name{
+    color: chocolate;
+    display: block;
+}
+.contain h1{
+    font-size: 50px;
+}
+.contain p{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    background: orange;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.contain img{
+    width: 100%;
+    background: paleturquoise;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.middle-contain{
+    margin-top: 30px;
+
+}
+.lasted-wp{
+    position: relative;
+    margin-top: 900px;
+    background: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+}
+
+section.lasted-wp {
+    padding: 70px 0;
+}
+.articles{
+    margin-top: 10px;
+}
+.articles p{
+    margin-top: 10px;
+}
+.portfolio-contain{
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.highlight-word{
+    color: sandybrown;
+}
+.portfolio{
+    width: 29%;
+    float: left;
+    margin: 15px;
+    padding: 15px;
+    display: inline-block;
+    border: 2px solid #e8e8e8;
+}
+.portfolio-img img {
+    max-width: 100%;
+}
+.parent-work {
+    width: 933px;
+    overflow: hidden;
+    margin: auto;
+    display: flex;
+    padding: -15px;
+}
+.button1{
+    background-image: url(Images/Group_33094_1.png);
+    margin-bottom: 20px;
+    background: mediumslateblue;
+    width: 400px;
+    height: 80px;
+    margin-left: 35%;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.inquiry{
+    display: inline-block;
+    margin-right: 100px;
+    color: #ffffff;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.Chat{
+    text-decoration: none;
+    background: orange;
+    color: #ffffff;
+    border: 1px solid orange ;
+    border-radius: 3px;
+    margin-top: 30px;
+}
+.social{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 20px;
+}
+.icon{
+    width: 933px;
+    overflow: hidden;
+    display: flex;
+    padding: -15px;
+    margin-top: 20px;
+
+}
+#fcont1{
+    margin-left: 56%;
+}
+.ficon{
+    margin-right: 2px;
+    float: left;
+    display: inline-block;
+    
+}
+.ficon img{
+    width: 25px;
+}
+footer{
+    text-align: center;
+    color: rgb(10, 10, 10);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
